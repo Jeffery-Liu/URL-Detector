@@ -30,4 +30,5 @@ Type in an URL and then hit "submit," then you will get the result with the prob
 
 ## Contributors:
 - Jinfeng (Jeffery) Liu <liujinfeng1209@gmail.com>
-
+- Zhipeng (Lance) Men <lance_mon@icloud.com>
+- Junbo Zhou <jzhou26@nyit.edu>
