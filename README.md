@@ -10,11 +10,11 @@ The project is still in progress.
 
 The purpose of this project is to identify whether the URL is malicious.
 
-I used machine learning to train a model so that the model can automatically identify malicious sites.
-I found the data set, which is used to train the model on the Internet.
+Algorithm: Logistic Regression.
+We found the data set, which is used to train the model on the Internet.
 A total of 420,464 requests were sorted out as URLs data sets, including both legitimate and malicious requests.
 
-I created a user-friendly webpage to provide the serving.
+We created a user-friendly webpage to provide the serving.
 
 # Instruction:
 ## Server:
